@@ -1,0 +1,14 @@
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\bin\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.exe
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\bin\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.deps.json
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\bin\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.runtimeconfig.json
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\bin\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.dll
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\bin\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.pdb
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\obj\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\obj\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.AssemblyInfoInputs.cache
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\obj\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.AssemblyInfo.cs
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\obj\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\obj\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.dll
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\obj\Debug\net8.0\refint\Desafio prático - Fundamentos de C-Sharp.dll
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\obj\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.pdb
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\obj\Debug\net8.0\Desafio prático - Fundamentos de C-Sharp.genruntimeconfig.cache
+C:\Users\Thalles\source\repos\Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp\obj\Debug\net8.0\ref\Desafio prático - Fundamentos de C-Sharp.dll
